@@ -1,0 +1,27 @@
+.fixTableHeadDescarrego {
+    overflow-y: auto;
+    height: 439px;
+}
+.fixTableHeadDescarrego thead th {
+    position: sticky;
+    top: -1px;
+}
+
+.fixTableHeadHortifruti {
+  overflow-y: auto;
+  height: 439px;
+}
+.fixTableHeadHortifruti thead th {
+  position: sticky;
+  top: -1px;
+}
+
+.fixTableHeadAvulsa {
+  overflow-y: auto;
+  height: 439px;
+}
+.fixTableHeadAvulsa thead th {
+  position: sticky;
+  top: -1px;
+}
+ 
